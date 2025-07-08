@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service-1g
+
+custom:
+  greeting: "Default greeting from config server"
+
+
