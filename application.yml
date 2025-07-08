@@ -1,0 +1,14 @@
+logging:
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+spring:
+  profiles:
+    active: dev
