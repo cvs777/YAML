@@ -10,5 +10,5 @@ management:
         include: "*"
 
 spring:
-  profiles:
-    active: dev
+  application:
+    name: shared-g
