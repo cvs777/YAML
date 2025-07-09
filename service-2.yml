@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: service-2g
-
 custom:
   greeting: "server 2"
