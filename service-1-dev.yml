@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: service-1-dev-g
-
 custom:
-  greeting: "In dev service 1"
+  greeting: "In dev service 1-dev"
